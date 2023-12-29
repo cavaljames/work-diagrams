@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T06:27:41.904Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KMXGqEZYys6oEAX1jMUF" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-29T06:28:33.228Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="E7NtcuhQqW1pcw_pj7My" version="22.1.15" type="github">
   <diagram name="第 1 页" id="oA9dvzH2FuCAe9azYhYH">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,11 +29,11 @@
         <mxCell id="-be-5AsT4qA79ZcCDN_K-11" value="评测集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-be-5AsT4qA79ZcCDN_K-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-be-5AsT4qA79ZcCDN_K-12" target="-be-5AsT4qA79ZcCDN_K-17" edge="1">
+        <mxCell id="FzfMPwuMvIwzorTcClLy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-be-5AsT4qA79ZcCDN_K-12" target="-be-5AsT4qA79ZcCDN_K-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="490" y="240" />
-              <mxPoint x="190" y="240" />
+              <mxPoint x="460" y="220" />
+              <mxPoint x="190" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -41,7 +41,7 @@
           <mxGeometry x="400" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-be-5AsT4qA79ZcCDN_K-16" value="千帆平台" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="260" width="600" height="180" as="geometry" />
+          <mxGeometry x="70" y="240" width="600" height="180" as="geometry" />
         </mxCell>
         <mxCell id="-be-5AsT4qA79ZcCDN_K-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="-be-5AsT4qA79ZcCDN_K-16" source="-be-5AsT4qA79ZcCDN_K-8" target="-be-5AsT4qA79ZcCDN_K-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -58,11 +58,11 @@
         <mxCell id="-be-5AsT4qA79ZcCDN_K-20" value="服务" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="-be-5AsT4qA79ZcCDN_K-16" vertex="1">
           <mxGeometry x="420" y="70" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-be-5AsT4qA79ZcCDN_K-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-be-5AsT4qA79ZcCDN_K-23" target="-be-5AsT4qA79ZcCDN_K-20" edge="1">
+        <mxCell id="FzfMPwuMvIwzorTcClLy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-be-5AsT4qA79ZcCDN_K-23" target="-be-5AsT4qA79ZcCDN_K-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="630" y="240" />
-              <mxPoint x="550" y="240" />
+              <mxPoint x="610" y="220" />
+              <mxPoint x="550" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
