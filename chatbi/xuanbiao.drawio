@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T07:16:09.069Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="MnUsVFtgp1h2RVrYta8L" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T07:17:49.309Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="bRk9q77gjjQlcBz96aSd" version="24.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
           <mxGeometry x="115" y="200" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QnterGlmtUt3-5TKs0jL-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;选表服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;align=center;glass=0;shadow=0;textShadow=0;horizontal=1;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="115" y="310" width="550" height="350" as="geometry" />
+          <mxGeometry x="115" y="310" width="550" height="340" as="geometry" />
         </mxCell>
         <mxCell id="QnterGlmtUt3-5TKs0jL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QnterGlmtUt3-5TKs0jL-4" target="QnterGlmtUt3-5TKs0jL-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -64,6 +64,21 @@
         </mxCell>
         <mxCell id="ebe6CAPBfRJyWC64Laac-14" value="LLM大模型" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="770" y="125" width="120" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ebe6CAPBfRJyWC64Laac-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ebe6CAPBfRJyWC64Laac-20" target="ebe6CAPBfRJyWC64Laac-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ebe6CAPBfRJyWC64Laac-20" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="462.5" width="360" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="ebe6CAPBfRJyWC64Laac-23" value="BERT" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="495" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ebe6CAPBfRJyWC64Laac-25" value="CNN" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="346" y="496" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ebe6CAPBfRJyWC64Laac-26" value="Ernie" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="495" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
